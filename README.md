@@ -1,8 +1,9 @@
-# Tugas Kelompok UTS Untuk Aplikasi Pemesanan Makanan
-Anggota Kelompok 
+# Visualisasi menggunakan google studio dan excel
 
-Armanta Tarigan/825220129
+Dashboard looker studio menggunakan dataset mengenai employee
 
-M.Daffa Al Hakim/825220164
+Dashboard tableau menggunakan dataset product sales transactions
 
-Sayyidina Ali/825220115
+visualisasi excel menggunakan dataset product sales transactions
+
+semua dataset sudah terlampir di masing masing file
